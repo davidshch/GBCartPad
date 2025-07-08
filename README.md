@@ -1,5 +1,5 @@
 # GBCartPad 👾
-A 16-key Game Boy Cartridge Macropad with an OLED display and LEDs for each key that uses KMK firmware!
+A 16-key Game Boy Cartridge Macropad with an OLED display and RGB LEDs for each key that uses KMK firmware!
 
 ## Why'd I make it
 I've always wanted to make a full-stack hardware project and design my own PCB, so this was my first introduction to that. I also love Nintendo and thought the Game Boy cartridge design would make a really nice case for something like a macropad. I'll probably use it for basic things, such as a numpad for my laptop and some shortcuts I use, but the important part for me is that it's built and working. It was a great learning experience overall, and it will definitely help me with future hardware projects I want to make.
